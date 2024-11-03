@@ -1,0 +1,47 @@
+# Python
+*.py[cod]                # Compiled Python files
+__pycache__/             # Cache directory
+*.pyo                    # Optimized Python files
+*.pyd                    # Windows DLL files
+
+# Virtual environment
+venv/                  # Virtual environment folder
+env                    # Common virtual environment folder name
+ENV                     # Common virtual environment folder name
+.venv                   # Another common virtual environment folder name
+
+# Distribution / packaging
+.Python                  # Python version used for the virtual environment
+build/                   # Build directory
+dist/                    # Distribution directory
+*.egg-info/             # Egg info directory
+*.egg                    # Egg files
+*.whl                    # Wheel files
+
+# IDE and editor files
+.vscode/                 # Visual Studio Code settings
+.idea/                   # IntelliJ IDEA settings
+*.swp                    # Swap files (Vim)
+*.sublime-workspace      # Sublime Text workspace
+*.sublime-project        # Sublime Text project
+*.iml                    # IntelliJ IDEA module files
+
+# Misc
+*.log                    # Log files
+*.sqlite3                # SQLite database files
+*.db                     # Database files
+*.DS_Store               # macOS folder attributes
+*.env                    # Environment variables file
+
+# Test results
+pytest_cache/           # pytest cache
+nosetests.xml           # nosetests output
+coverage.xml            # Coverage report
+*.cover                 # Coverage files
+*.log                   # Log files
+test-results/           # Test results directory
+
+database.db
+__pycache__
+venv
+

@@ -1,0 +1,6 @@
+fastapi[standard]
+uvicorn[standard]
+sqlalchemy
+asyncpg
+databases
+psycopg2-binary
